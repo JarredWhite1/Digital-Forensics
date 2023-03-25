@@ -22,15 +22,15 @@ This project consisted of examining an evidence drive for violations against a c
 
 <p align="center">
 Step 1 - Launch the utility: <br/>
-<img src="https://imgur.com/Yt7NDJW" height="80%" width="80%" alt="Clicking on Autopsy"/>
+<img src="https://imgur.com/a/uJhzZLj" height="80%" width="80%" alt="Clicking on Autopsy"/>
 <br />
 <br />
 Step 2 - Select the disk:  <br/>
-<img src="https://imgur.com/a/VYdwrzf" height="80%" width="80%" alt="Select Disk Source"/>
+<img src="https://imgur.com/a/3PAGxeF" height="80%" width="80%" alt="Select Disk Source"/>
 <br />
 <br />
 Step 3 - Enter the Path and Optional Add a Hash Value: <br/>
-<img src="https://imgur.com/a/R3imVlp" height="80%" width="80%" alt="Path"/>
+<img src="https://imgur.com/a/yYa77mF" height="80%" width="80%" alt="Path"/>
 <br />
 <br />
 Step 4 - Configure Ingest:  <br/>
