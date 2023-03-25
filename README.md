@@ -1,8 +1,8 @@
 # DigitalForensics
 Examining Digital Evidence Drives for Illegal Activities
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Autopsy Forensics</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 <h2>Description</h2>
 This project consisted of examining an evidence drive for violations against a company NDA. The employee was found sharing proprietary information with competitors and a summary report of the events was issued to senior management.
