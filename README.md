@@ -21,28 +21,28 @@ This project consisted of examining an evidence drive for violations against a c
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 1 - Launch the utility: <br/>
+<img src="https://imgur.com/Yt7NDJW" height="80%" width="80%" alt="Clicking on Autopsy"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 2 - Select the disk:  <br/>
+<img src="https://imgur.com/a/VYdwrzf" height="80%" width="80%" alt="Select Disk Source"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 3 - Enter the Path and Optional Add a Hash Value: <br/>
+<img src="https://imgur.com/a/R3imVlp" height="80%" width="80%" alt="Path"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 4 - Configure Ingest:  <br/>
+<img src="https://imgur.com/a/T6yN1fb" height="80%" width="80%" alt="Select All Data"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 5 - Add Data Source to Autopsy DB:  <br/>
+<img src="https://imgur.com/a/CdZOkdg" height="80%" width="80%" alt="Data Source"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Search for Evidence:  <br/>
+<img src="https://imgur.com/a/CnqPQCc" height="80%" width="80%" alt="Evidence"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
