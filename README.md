@@ -22,27 +22,27 @@ This project consisted of examining an evidence drive for violations against a c
 
 <p align="center">
 Step 1 - Launch the utility: <br/>
-<img src="https://imgur.com/a/uJhzZLj" height="80%" width="80%" alt="Clicking on Autopsy"/>
+<img src="https://imgur.com/a/uJhzZLj.png" height="80%" width="80%" alt="Clicking on Autopsy"/>
 <br />
 <br />
 Step 2 - Select the disk:  <br/>
-<img src="https://imgur.com/a/3PAGxeF" height="80%" width="80%" alt="Select Disk Source"/>
+<img src="https://imgur.com/a/3PAGxeF.png" height="80%" width="80%" alt="Select Disk Source"/>
 <br />
 <br />
 Step 3 - Enter the Path and Optional Add a Hash Value: <br/>
-<img src="https://imgur.com/a/yYa77mF" height="80%" width="80%" alt="Path"/>
+<img src="https://imgur.com/a/yYa77mF.png" height="80%" width="80%" alt="Path"/>
 <br />
 <br />
 Step 4 - Configure Ingest:  <br/>
-<img src="https://imgur.com/a/T6yN1fb" height="80%" width="80%" alt="Select All Data"/>
+<img src="https://imgur.com/a/T6yN1fb.png" height="80%" width="80%" alt="Select All Data"/>
 <br />
 <br />
 Step 5 - Add Data Source to Autopsy DB:  <br/>
-<img src="https://imgur.com/a/CdZOkdg" height="80%" width="80%" alt="Data Source"/>
+<img src="https://imgur.com/a/CdZOkdg.png" height="80%" width="80%" alt="Data Source"/>
 <br />
 <br />
 Search for Evidence:  <br/>
-<img src="https://imgur.com/a/CnqPQCc" height="80%" width="80%" alt="Evidence"/>
+<img src="https://imgur.com/a/CnqPQCc.png" height="80%" width="80%" alt="Evidence"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
