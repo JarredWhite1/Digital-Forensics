@@ -25,8 +25,8 @@ Step 1 - Launch the utility: <br/>
 <img src="https://imgur.com/a/uJhzZLj.png" height="80%" width="80%" alt="Clicking on Autopsy"/>
 <br />
 <br />
-Step 2 - Select the disk:  <br/>
-<img src="https://imgur.com/a/3PAGxeF.png" height="80%" width="80%" alt="Select Disk Source"/>
+Step 2 - Make the case file:  <br/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step1.1New%20Case%20John%20Smith%20Autopsy.png" height="80%" width="80%" alt="Select Disk Source"/>
 <br />
 <br />
 Step 3 - Enter the Path and Optional Add a Hash Value: <br/>
