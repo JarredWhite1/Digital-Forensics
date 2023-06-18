@@ -22,7 +22,7 @@ This project consisted of examining an evidence drive for violations against a c
 
 <p align="center">
 Step 1 - Launch the utility: <br/>
-<img src="https://imgur.com/a/uJhzZLj.png" height="80%" width="80%" alt="Clicking on Autopsy"/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step1changeAutopsy%20Opening%20App.png" height="80%" width="80%" alt="Clicking on Autopsy"/>
 <br />
 <br />
 Step 2 - Make the case file:  <br/>
