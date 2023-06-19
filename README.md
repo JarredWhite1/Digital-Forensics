@@ -48,10 +48,10 @@ Step 6 - Finish and Add Case Number of Additional Notes:  <br/>
 <br />
 Step 7 - Search for Evidence in Carved Files and other likely locations :  <br/>
 <img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step8List%20of%20Carved%20Files%20193949.png" height="80%" width="80%" alt="carved files"/>
-<img src="<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step9Pictures%20of%20Mech%20Diagrams%20.png" height="80%" width="80%"/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step9Pictures%20of%20Mech%20Diagrams%20.png" height="80%" width="80%"/>
 <br />
 <br />
-Step 8 -  :  <br/>
+Step 8 - Extract Evidence by right clicking and selecting "extract files" We can also select "add file tag" which will be used later in our report for evidence of particular interest :  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
