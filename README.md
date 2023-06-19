@@ -48,8 +48,7 @@ Step 6 - Finish and Add Case Number of Additional Notes:  <br/>
 <br />
 Step 7 - Search for Evidence in Carved Files and other likely locations :  <br/>
 <img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step8List%20of%20Carved%20Files%20193949.png" height="80%" width="80%" alt="carved files"/>
-<img src="<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step9Pictures%20of%20Mech%20Diagrams%20.png" height="80%" width="80%" alt="carved files"/>" height="80%" width="80%" alt="carved files"/>
- 
+<img src="<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step9Pictures%20of%20Mech%20Diagrams%20.png" height="80%" width="80%"/>
 <br />
 <br />
 Step 8 -  :  <br/>
