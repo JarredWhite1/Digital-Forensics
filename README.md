@@ -30,25 +30,35 @@ Step 2 - Make the case file:  <br/>
 <br />
 <br />
 Step 3 - Enter the Path and Optional Add a Hash Value: <br/>
-<img src="https://imgur.com/a/yYa77mF.png" height="80%" width="80%" alt="Path"/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step4.1Autopsy%20Path4%20Desktop.png" height="80%" width="80%" alt="Path"/>
 <br />
 <br />
-Step 4 - Configure Ingest:  <br/>
-<img src="https://imgur.com/a/T6yN1fb.png" height="80%" width="80%" alt="Select All Data"/>
+Step 4 - Select Data Host/Browse for the Path to Suspect Evidence:  <br/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step4.1Autopsy%20Path4%20Desktop.png" height="80%" width="80%" alt="Select All Data"/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step4Autopsy-JSmith%20LabUser.png" height="80%" width="80%" alt="Select All Data"/>
 <br />
 <br />
-Step 5 - Add Data Source to Autopsy DB:  <br/>
-<img src="https://imgur.com/a/CdZOkdg.png" height="80%" width="80%" alt="Data Source"/>
+Step 5 - Configure Ingest of Data:  <br/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step5Autopsy%20Config%20Ingest.png" height="80%" width="80%" alt="Data Source"/>
 <br />
 <br />
-Search for Evidence:  <br/>
-<img src="https://imgur.com/a/CnqPQCc.png" height="80%" width="80%" alt="Evidence"/>
+Step 6 - Finish and Add Case Number of Additional Notes:  <br/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step7Autopsy%20Case%20Number%20and%20Name%20Input%20Fields.png" height="80%" width="80%" alt="Evidence"/>
+<br />
+<br />
+Step 7 - Search for Evidence in Carved Files and other likely locations :  <br/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step8List%20of%20Carved%20Files%20193949.png" height="80%" width="80%" alt="carved files"/>
+<img src="<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step9Pictures%20of%20Mech%20Diagrams%20.png" height="80%" width="80%" alt="carved files"/>" height="80%" width="80%" alt="carved files"/>
+ 
+<br />
+<br />
+Step 8 -  :  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
 <!--
  ```diff
 - text in red
