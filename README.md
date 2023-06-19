@@ -52,11 +52,12 @@ Step 7 - Search for Evidence in Carved Files and other likely locations :  <br/>
 <br />
 <br />
 Step 8 - Extract Evidence by right clicking and selecting "extract files" We can also select "add file tag" which will be used later in our report for evidence of particular interest :  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step10EXtractionTransaction-CREATE.png" height="80%" width="80%" alt="file extraction"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 9 - We find leaked confidential data when viewing the pdfs:  <br/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step12Confedential%20Oil%20Drilling%20Strat.png" height="80%" width="80%" alt="Confidential Evidence Found"/>
+<img src="https://github.com/JarredWhite1/Digital-Forensics/blob/main/step11Confidential%20Dat%20Strat%20NO%20RELEASE.png" height="80%" width="80%" alt="Confidential Evidence Found"/>
 </p>
 <!--
  ```diff
